@@ -43,7 +43,7 @@ In this repository, you will find a variety of data-driven projects that showcas
 - Data cleaning and transformation
 - In-depth exploratory data analysis
 - Application of machine learning models
-- Use of deep learning techniques (CNN)
+- Use of deep learning techniques (CNN, RNN, LSTM)
 
 ### DSCI510 Final Project
 
