@@ -47,7 +47,7 @@ In this repository, you will find a variety of data-driven projects that showcas
 
 ### DSCI510 Final Project
 
-**Objective:** Perform sentiment analysis, time series analysis, and data visualization.
+**Objective:** Perform sentiment analysis, time series analysis, and data visualization for stock price prediction.
 
 **Highlights:**
 - Sentiment analysis using natural language processing (NLP) techniques
